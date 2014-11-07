@@ -6,6 +6,6 @@ Generate from Yeoman, for BDD testing
 
 run steps;
 
-npm install \n
+<p>npm install </p>
 bower install /n
 grunt server /n
