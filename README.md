@@ -6,6 +6,6 @@ Generate from Yeoman, for BDD testing
 
 run steps;
 
-npm install
-bower install
-grunt server
+npm install /n
+bower install /n
+grunt server /n
